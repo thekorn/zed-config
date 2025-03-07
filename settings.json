@@ -12,8 +12,8 @@
   },
   "assistant": {
     "default_model": {
-      "provider": "copilot_chat",
-      "model": "gpt-4o"
+      "provider": "zed.dev",
+      "model": "claude-3-5-sonnet-latest"
     },
     "version": "2"
   },
@@ -29,7 +29,7 @@
   },
   "ui_font_size": 15,
   //"ui_font_family": "GeistMono Nerd Font",
-  "buffer_font_size": 15,
+  "buffer_font_size": null,
   "buffer_font_family": "GeistMono Nerd Font",
   "terminal": {
     "line_height": {
