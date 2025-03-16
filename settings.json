@@ -13,7 +13,7 @@
   "assistant": {
     "default_model": {
       "provider": "copilot_chat",
-      "model": "claude-3-5-sonnet"
+      "model": "gpt-4"
     },
     "version": "2"
   },
@@ -32,6 +32,7 @@
   "buffer_font_size": null,
   "buffer_font_family": "GeistMono Nerd Font",
   "terminal": {
+    "dock": "bottom",
     "line_height": {
       "custom": 1.15
     },
