@@ -39,5 +39,12 @@
     "env": {
       "DISABLE_TMUX": "1"
     }
+  },
+  "lsp": {
+    "biome": {
+      "settings": {
+        "require_config_file": true
+      }
+    }
   }
 }
