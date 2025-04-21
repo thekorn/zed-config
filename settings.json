@@ -24,11 +24,10 @@
   },
   "theme": {
     "mode": "system",
-    "light": "One Dark",
-    "dark": "One Dark"
+    "light": "Kanagawa Wave",
+    "dark": "Kanagawa Wave"
   },
   "ui_font_size": 15,
-  //"ui_font_family": "GeistMono Nerd Font",
   "buffer_font_size": null,
   "buffer_font_family": "GeistMono Nerd Font",
   "terminal": {
