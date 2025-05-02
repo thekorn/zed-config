@@ -23,9 +23,9 @@
     "metrics": false
   },
   "theme": {
-    "mode": "system",
-    "light": "Kanagawa Wave",
-    "dark": "Kanagawa Wave"
+    "mode": "dark",
+    "light": "Gruvbox Dark Hard",
+    "dark": "Gruvbox Dark Hard"
   },
   "ui_font_size": 15,
   "buffer_font_size": null,
