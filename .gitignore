@@ -2,3 +2,4 @@ conversations/
 embeddings/
 prompts/
 .tmp*
+*backup.json
