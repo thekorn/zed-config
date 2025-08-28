@@ -11,11 +11,15 @@
     "edit_prediction_provider": "zed"
   },
   "agent": {
+    "inline_assistant_model": {
+      "provider": "zed.dev",
+      "model": "claude-3-7-sonnet"
+    },
     "always_allow_tool_actions": true,
     "default_model": {
       "provider": "copilot_chat",
       "model": "gpt-4.1"
-    },
+    }
   },
   "base_keymap": "VSCode",
   "telemetry": {
@@ -43,6 +47,13 @@
     "biome": {
       "settings": {
         "require_config_file": true
+      }
+    },
+    "eslint": {
+      "settings": {
+        "problems": {
+          "shortenToSingleLine": true
+        }
       }
     }
   },
